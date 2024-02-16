@@ -1,0 +1,26 @@
+{
+    "name": "Yff spill",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Yff spill": "github:barnegraver/yff-spill#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.47",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
