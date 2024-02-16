@@ -4,7 +4,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "Yff spill": "github:barnegraver/yff-spill#v0.0.1"
+        "Yff spill": "github:Barnegraver/yff-spill#v0.0.1"
     },
     "files": [
         "main.blocks",
